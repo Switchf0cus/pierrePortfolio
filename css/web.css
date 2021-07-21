@@ -213,7 +213,6 @@ html{
 
 .title-description p{
     margin-top: 20%;
-    /* color: #ffffff; */
     font-size: 1.8vw;
     letter-spacing: 2px;
     font-family: 'Abril Fatface', monospace;
@@ -379,10 +378,6 @@ h3{
     z-index: 2;
     
 }
-/* .contact-container form{
-    margin-top: 25%;
-    margin-left: 12%;
-} */
 
 .contact-title{
     color: #f0adad;
@@ -391,59 +386,6 @@ h3{
     width: 60%;
     /* margin-left: 15%; */
 }
-
-/* form{
-    max-width: 100%;
-    width: auto;
-    height: fit-content;
-    color: rgb(255, 255, 255);
-    font-family: 'Kulim Park', sans-serif;
-    font-size: 1.4vw;
-    background-color: rgba(69, 69, 69, 0.3);
-    padding: 5%;
-}
-.contactform{
-    display: flex;
-    flex-wrap: wrap;
-    width: 40%;
-    height: fit-content; 
-    margin-top: 3%;
-} */
-/* 
-.row{
-    width: 90%;
-    height: auto;
-    margin-top: 8%;
-}
-
-input{
-    width: 50%;
-    height: 3.5vh;
-    color: rgb(0, 0, 0);
-    background-color: rgb(220, 220, 220);
-    border: none;
-    padding: 5px;
-}
-
-.btn {
-    background-color: #f0adad;
-    width: 50%;
-    height: 40px;
-    border-radius: 2px;
-    font-size: 1.3vw;
-}
-.btn:hover{
-    background-color: #f0adad;
-    transition: 500ms;
-}
-
-.hit-me-up{
-    text-align: center;
-    color: rgb(176, 176, 176);
-    animation-name: colorchange;
-    animation-duration: 6s;
-    animation-iteration-count: infinite;
-} */
 
 @keyframes colorchange{
     0% {color: rgb(254, 254, 254);}
