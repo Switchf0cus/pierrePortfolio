@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "build webpage"
+    "start": "npm run start"
   },
   "name": "package.json",
   "version": "1.0.0",
