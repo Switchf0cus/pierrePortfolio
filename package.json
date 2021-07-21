@@ -1,0 +1,7 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Switchf0cus/pierrePortfolio.git",
+  "license": "MIT"
+}
