@@ -172,6 +172,7 @@ html{
     margin-top: 5%;
 }
 
+
 .facts-about-me{
     display: flex;
     width: 55%;
@@ -187,8 +188,11 @@ html{
 
 .facts-about-me p{
     margin-top: 0%;
-    font-size: 1.4vw;
+    font-size: 1.6vw;
     color: #fff6f6;
+}
+.hint{
+    font-size: .9vw;
 }
 
 .title-web{
@@ -267,6 +271,7 @@ html{
     margin-top: 10%;
     margin-left: 5%;
     z-index: 1;
+    font-family: 'Abril Fatface';
 }
 
 .my-projects{
@@ -328,7 +333,7 @@ html{
 .web-box:nth-child(1):hover{
     opacity: 0.6;
     border: #f0adad 3px solid;
-    transition: 500ms;
+    transition: 750ms ease-in;
 }
 
 .web-box:nth-child(2){
@@ -342,7 +347,7 @@ html{
 .web-box:nth-child(2):hover{
     opacity: 0.6;
     border: #f0adad 3px solid;
-    transition: 500ms;
+    transition: 750ms ease-in;
 }
 
 .web-box:nth-child(3){
@@ -356,7 +361,7 @@ html{
 .web-box:nth-child(3):hover{
     opacity: 0.6;
     border: #f0adad 3px solid;
-    transition: 500ms;
+    transition: 750ms ease-in;
 }
 
 
