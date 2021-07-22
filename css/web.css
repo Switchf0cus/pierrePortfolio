@@ -45,7 +45,7 @@ html{
     list-style: none;
 }
 .navbar a {
-	color: #f0adad;
+	color: #EEEBDD;
 	text-decoration: none;
     margin: 40px;
     letter-spacing: 3px;
@@ -189,7 +189,8 @@ html{
 .facts-about-me p{
     margin-top: 0%;
     font-size: 1.6vw;
-    color: #fff6f6;
+    color: #EEEBDD;
+    mix-blend-mode: screen;
 }
 .hint{
     font-size: .9vw;
@@ -204,7 +205,7 @@ html{
 }
 
 .title-web h1{
-    color: #ffffff;
+    color: #EEEBDD;
     font-size: 5vw;
     font-family: 'Abril Fatface', cursive;
 }
@@ -220,13 +221,13 @@ html{
     font-size: 1.8vw;
     letter-spacing: 2px;
     font-family: 'Abril Fatface', monospace;
-    color: #ffffff;
+    color: #EEEBDD;
 
 }
 
 .about-me-title{
     display: flex;
-    color: #f0adad;
+    color: #1B1717;
     font-size: 8vw;
     margin-top: 10%;
     margin-left: 5%;
@@ -241,22 +242,24 @@ html{
     margin-top: 0%;
     margin-left: 45%;
     padding: 0%;
+    mix-blend-mode: screen;
+
 }
 
 .about-me p{
     justify-content: center;
     align-content: center;
-    color: rgb(255, 255, 255);
+    color: #1B1717;
     font-size: 1.8vw;
     font-family: 'Abril Fatface', sans-serif;
     letter-spacing: 2px;
-    padding : 3%;
-    border-right: #f0adad 4px double;
-    border-left: #f0adad 4px double;
+    padding : 2%;
+    border-right: #1B1717 8px double;
+    border-left: #1B1717 8px double;
 }
 
 .geneilink{ 
-    color: white;
+    color: #1B1717;
 }
 
 .web-container-2{
@@ -266,7 +269,7 @@ html{
 .my-projects-title{
     display: flex;
     justify-content: flex-start;
-    color: #f0adad;
+    color: #EEEBDD;
     font-size: 2vw;
     margin-top: 10%;
     margin-left: 5%;
@@ -287,7 +290,7 @@ html{
 }
 
 .my-projects p{
-    color: white;
+    color: #EEEBDD;
     font-family: 'Abril Fatface', sans-serif;
     font-size: 1.7vw;
     width: 75%;
@@ -313,10 +316,10 @@ html{
     align-items: center;
     width: 30%;
     height: 300px;
-    border: #474747 .5vh solid;
+    border: #EEEBDD .25vh solid;
     margin-top: 3%;
     margin-left: 0%;
-    background-color: rgba(213, 213, 213, 0.6);
+    background-color: #EEEBDD;
     opacity: 0.8;
     border-radius: 10px;
 } 
@@ -332,8 +335,8 @@ html{
 }
 .web-box:nth-child(1):hover{
     opacity: 0.6;
-    border: #f0adad 3px solid;
-    transition: 750ms ease-in;
+    border: #EEEBDD 3px solid;
+    transition: 350ms ease-in;
 }
 
 .web-box:nth-child(2){
@@ -346,8 +349,8 @@ html{
 }
 .web-box:nth-child(2):hover{
     opacity: 0.6;
-    border: #f0adad 3px solid;
-    transition: 750ms ease-in;
+    border: #EEEBDD 3px solid;
+    transition: 350ms ease-in;
 }
 
 .web-box:nth-child(3){
@@ -360,8 +363,8 @@ html{
 }
 .web-box:nth-child(3):hover{
     opacity: 0.6;
-    border: #f0adad 3px solid;
-    transition: 750ms ease-in;
+    border: #EEEBDD 3px solid;
+    transition: 350ms ease-in;
 }
 
 
@@ -377,7 +380,7 @@ html{
 h3{
     width: 100%;
     display: flex;
-    color: #f0adad;
+    color: #EEEBDD;
     font-size: 300%;
     margin-left: 0%;
     z-index: 2;
@@ -386,7 +389,7 @@ h3{
 
 .contact-title{
     color: #f0adad;
-    font-size: .8vw;
+    font-size: .5vw;
     margin-top: 15%;
     width: 60%;
     /* margin-left: 15%; */
@@ -597,5 +600,5 @@ a{
 }
 .fab:hover{
     transform: scale(1.25);
-    color: #f0adad;
+    color: #EEEBDD;
 }
