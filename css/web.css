@@ -154,6 +154,7 @@ html{
 .parallax-1{
     height: 100vh;
     background: transparent;
+    background-size: contain;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
